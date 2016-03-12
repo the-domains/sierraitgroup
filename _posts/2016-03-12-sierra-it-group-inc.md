@@ -3,21 +3,21 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Sierra IT Group Inc
-datePublished: '2016-03-12T03:19:22.053Z'
-dateModified: '2016-03-12T03:19:12.177Z'
+datePublished: '2016-03-12T05:11:24.179Z'
+dateModified: '2016-03-12T05:11:04.687Z'
 title: ''
 author: []
+sourcePath: _posts/2016-03-12-sierra-it-group-inc.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-12-sierra-it-group-inc.md
-published: true
 url: sierra-it-group-inc/index.html
 _type: Article
 
